@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Prithviraj Pillai",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "description": "Personal website with a blog and my journey",
+    "siteUrl": "https://prithvirajpillai.com",
+    "image": "/assets/pic-side.png",
+    "iconimage": "/assets/pic-side.png",
+    "twitterUsername": "@pritzoan"
   },
   "ga": "UA-XXXXXXXXX-X"
 }
